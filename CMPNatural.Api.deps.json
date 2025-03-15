@@ -1459,6 +1459,7 @@
       },
       "CMPPayment/1.0.0": {
         "dependencies": {
+          "CMPNatural.Core": "1.0.0",
           "Stripe.net": "47.4.0"
         },
         "runtime": {
