@@ -62,3 +62,4 @@ lib/config/remote_environments/api_variables.dart
 lib/config/remote_environments/auth_config.dart
 lib/config/remote_environments/product_config.dart
 lib/config/remote_environments/socket_variables.dart
+/View/
